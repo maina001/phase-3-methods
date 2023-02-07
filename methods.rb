@@ -6,4 +6,10 @@ def greet_programmer
     puts "Hello, programmer!"
     end
     greet_programmer
+
+    #second one
+def greet (name)
+    puts "Hello, #{name}!"
+  end
+  
     
