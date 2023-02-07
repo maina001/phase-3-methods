@@ -22,7 +22,7 @@ def add (num1,num2)
     return num1+num2
   end
 
-  fifth one
+ # fifth one
 def halve(number)
   if !number.is_a?(Integer)
  #is_a is used tochecks the instance of a certain class
