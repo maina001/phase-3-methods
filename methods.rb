@@ -16,4 +16,8 @@ def greet (name)
 def greet_with_default (name = "programmer")
   puts "Hello, #{name}!"
 end
-    
+
+# fourth one
+def add (num1,num2)
+    return num1+num2
+  end
